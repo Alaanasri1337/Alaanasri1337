@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alaanasri1337
 - 👀 I’m interested in Security auditing and risk assessment
-- 🌱 I’m currently Vulnerability assessment and management
+- 🌱 Ethical hacking
 - 💞️ II’m currently learning MERN Stack
 - 📫 How to reach me : [telegram](https://t.me/Jok3r_1337)
 - 💬 Ask me about anything 😅
